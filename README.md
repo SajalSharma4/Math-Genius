@@ -1,5 +1,5 @@
 # Math-Genius
-A basic Java application created using java swing and awt. It also integrates JDBC to keep the scores of player and fetches it for scoreboard.
+A Java application created using java swing and awt in the form of a game. The game contains various modes and has questions difficulty set accordingly. The questions keep regenrating until wrong answer is given. It also integrates JDBC to keep the scores of player and fetches it for scoreboard.
 <hr/>
 
 ## Screenshots 
